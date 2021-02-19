@@ -40,8 +40,8 @@ http://stream.tvtap.live:8081/live/it-dazn10.stream/playlist.m3u8?wmsAuthSign=c2
 http://stream.tvtap.live:8081/live/it-dazn9.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDE6NTI6MzIgUE0maGFzaF92YWx1ZT03cmUzV2h4R0RKZVBoOE1EU3dCd2p3PT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 group-title="Sport Mdy",Sky Premiere
 http://stream.tvtap.live:8081/live/skysports-premier-league.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDE6NTM6MTIgUE0maGFzaF92YWx1ZT1KWDlZMk52QTdMU1AyTTEyUEY1UUJRPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 group-title="Sport Mdy",Sky Football
-http://stream.tvtap.live:8081/live/skysports-football.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDE6NTQ6MDQgUE0maGFzaF92YWx1ZT1jV2ZleWVWY2p6KzFEYmVjUmxjRHhnPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 group-title="Sport Mdy",Sky 2 DE
+http://stream.tvtap.live:8081/live/de-skysport20.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOS8yMDIxIDg6NDQ6NTggQU0maGFzaF92YWx1ZT1mWnJVZlFzcG1KMnVuQU5oN3BDSWl3PT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PK" tvg-language="Urdu" tvg-logo="" tvg-url="" group-title="Sport Mdy",PTV Sports (720p)
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Red Bull TV" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" tvg-url="" group-title="Sport Mdy",Red Bull TV (1080p)
