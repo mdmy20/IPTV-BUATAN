@@ -1,7 +1,7 @@
 
 
-#EXTINF:-1 tvg-id="sonybbcearthhd.in" tvg-name="IND: BBC EARTH HD" tvg-logo="" group-title="INDIA- BD-LOCALS",IND: BBC EARTH HD
-http://globaltv.life:8880/7722/7722/39433
+#EXTINF:-1 tvg-name="IND: BBC EARTH HD"
+http://alphabetagama.ddns.net/sports2021/premiresp2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My81LzIwMjEgNzoyNDowMiBBTSZoYXNoX3ZhbHVlPXFNcmVjc3BZNjFjbXlaNTVtWjlBNVE9PSZ2YWxpZG1pbnV0ZXM9MTI=
 #EXTINF:-1 group-title="Sport Mdy",beinsport 1 fr
 http://stream.tvtap.live:8081/live/fr-beinsport1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDE6MzQ6NTAgUE0maGFzaF92YWx1ZT1oNkttdTRMWWNaNUFkcVhsUy9LK1FBPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 group-title="Sport Mdy",beinsport 2 fr
