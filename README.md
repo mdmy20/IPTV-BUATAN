@@ -1,19 +1,29 @@
-
-
-#EXTINF:-1 group-title="Sport Mdy",Premiere Sport
-http://alphabetagama.ddns.net/sports2021/premiresp2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My81LzIwMjEgNzoyNDowMiBBTSZoYXNoX3ZhbHVlPXFNcmVjc3BZNjFjbXlaNTVtWjlBNVE9PSZ2YWxpZG1pbnV0ZXM9MTI=
+#EXTINF:-1 group-title="Sport Mdy",Premiere Sport 1
+http://alphabetagama.ddns.net/sports2021/premiresp2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My81LzIwMjEgOTo1OToyMyBBTSZoYXNoX3ZhbHVlPSs3bzM3d2FYbVUxWE44dE9OSkhMYkE9PSZ2YWxpZG1pbnV0ZXM9MTI=
+#EXTINF:-1 group-title="Sport Mdy",Premiere Sport 2
+http://alphabetagama.ddns.net/sports2021/premiresp2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My81LzIwMjEgOTo1ODozNiBBTSZoYXNoX3ZhbHVlPWdEVWIvUnJkS21ia0NEZEluT3AwQXc9PSZ2YWxpZG1pbnV0ZXM9MTI=
 #EXTINF:-1 group-title="Sport Mdy",sky premiere league
 http://alphabetagama.ddns.net/sports2021/skypleague/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My81LzIwMjEgOTo0MzoyMSBBTSZoYXNoX3ZhbHVlPVFVV3lJTCtNY3QwaXlZVlpGVGlIaUE9PSZ2YWxpZG1pbnV0ZXM9MTI=
-#EXTINF:-1 group-title="Sport Mdy",beinsport 2 fr
-http://stream.tvtap.live:8081/live/fr-beinsport2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDE6MzY6MjYgUE0maGFzaF92YWx1ZT1CbkdkR0hQLzJFdXhCRnhNZzRlSTRnPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 group-title="Sport Mdy",beinsport 3 fr
-http://stream.tvtap.live:8081/live/fr-beinsport3.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDE6Mzc6NTQgUE0maGFzaF92YWx1ZT1mUmwyMXQvS3plTkhZRm41c2RTOGxBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 group-title="Sport Mdy",beinsport 12 Ar
-http://alphabetagama.ddns.net/sports2021/bein12/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOS8yMDIxIDg6Mzc6MjQgQU0maGFzaF92YWx1ZT01Y1ZTZ2ptd3JTNG4vS2trdUFScll3PT0mdmFsaWRtaW51dGVzPTEy
-#EXTINF:-1 group-title="Sport Mdy",beinsport 11 Ar
-http://stream.tvtap.live:8081/live/bein11.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDE6Mzg6NDkgUE0maGFzaF92YWx1ZT1KNXV3N1R3bzliUjBhZHp3eWNJTXpnPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 group-title="Sport Mdy",beinsport 10 Ar
-http://stream.tvtap.live:8081/live/bein10.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDE6NDA6MDUgUE0maGFzaF92YWx1ZT1RNHg5Y2EvRTlSd2lLR3pTM1FQbmZRPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 group-title="Sport Mdy",sky main event
+http://alphabetagama.ddns.net/sports2021/skymainevent/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My81LzIwMjEgMTA6MDA6MDMgQU0maGFzaF92YWx1ZT15U0FwVSt3bXp0OGNKOVM5dnJGdVl3PT0mdmFsaWRtaW51dGVzPTEy
+#EXTINF:-1 group-title="Sport Mdy",sky football
+http://alphabetagama.ddns.net/sports2021/skyfootball/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My81LzIwMjEgMTA6MDA6NTQgQU0maGFzaF92YWx1ZT1wd1JLWDJhR242VnVFN041ck5NUC9RPT0mdmFsaWRtaW51dGVzPTEy
+#EXTINF:-1 group-title="Sport Mdy",beinsport 11
+http://alphabetagama.ddns.net/sports2021/bein11/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My81LzIwMjEgOTo1MDowNSBBTSZoYXNoX3ZhbHVlPVk0Z0p2RU9tYytWRlZVU0tia251ckE9PSZ2YWxpZG1pbnV0ZXM9MTI=
+#EXTINF:-1 group-title="Sport Mdy",beinsport 10
+http://alphabetagama.ddns.net/sports2021/bein10/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My81LzIwMjEgOTo1MDo1NSBBTSZoYXNoX3ZhbHVlPTJ0NGkzU3oxakh1aDlnUlc3dDBvK2c9PSZ2YWxpZG1pbnV0ZXM9MTI=
+#EXTINF:-1 group-title="Sport Mdy",beinsport 12
+http://alphabetagama.ddns.net/sports2021/bein12/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My81LzIwMjEgOTo1MTozNyBBTSZoYXNoX3ZhbHVlPUxBa2xCeWdKaUZoNmlBNkVrc3p5WXc9PSZ2YWxpZG1pbnV0ZXM9MTI=
+#EXTINF:-1 group-title="Sport Mdy",beinsport 13
+http://alphabetagama.ddns.net/sports2021/bein13/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My81LzIwMjEgOTo1MjoxNSBBTSZoYXNoX3ZhbHVlPWdQeHlKR3pPS3pVWWFRSHNpUUhRc3c9PSZ2YWxpZG1pbnV0ZXM9MTI=
+#EXTINF:-1 group-title="Sport Mdy",TEN 1
+http://alphabetagama.ddns.net/sports2021/ten1hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My81LzIwMjEgMTA6MDI6MjMgQU0maGFzaF92YWx1ZT0rNlRSem5ldTBudlkrTEw0cWJ6SjhBPT0mdmFsaWRtaW51dGVzPTEy
+#EXTINF:-1 group-title="Sport Mdy",TEN 2
+http://alphabetagama.ddns.net/sports2021/ten2hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My81LzIwMjEgMTA6MDI6NTUgQU0maGFzaF92YWx1ZT1PaVRSbmwrYkExdlBYVmpDQVRRT1d3PT0mdmFsaWRtaW51dGVzPTEy
+#EXTINF:-1 group-title="Sport Mdy",TEN 3
+http://alphabetagama.ddns.net/sports2021/ten3hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My81LzIwMjEgMTA6MDM6MTAgQU0maGFzaF92YWx1ZT1FOWFrWmVmOElmMEgzWlhUOTJZamRnPT0mdmFsaWRtaW51dGVzPTEy
+#EXTINF:-1 group-title="Sport Mdy",Ten Pakistan
+http://136.243.73.195:6554/sports2021/tensportspk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My81LzIwMjEgMTA6MDM6MjcgQU0maGFzaF92YWx1ZT1BUFNRa1FXWThBYXcxNStKQ2dZS3VRPT0mdmFsaWRtaW51dGVzPTEy
 #EXTINF:-1 group-title="Sport Mdy",BT SPORT 1
 http://stream.tvtap.live:8081/live/bt1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDE6NDM6MDIgUE0maGFzaF92YWx1ZT1wRkxNNVJKdS9VbnRrRVJuTy9MR21BPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 group-title="Sport Mdy",BT SPORT 2
@@ -22,22 +32,18 @@ http://stream.tvtap.live:8081/live/bt220.stream/playlist.m3u8?wmsAuthSign=c2Vydm
 http://stream.tvtap.live:8081/live/bt33.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDE6NDQ6MTcgUE0maGFzaF92YWx1ZT00aStMK2daZGhRL2k0WEpIMDNJT2Z3PT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 group-title="Sport Mdy",BT SPORT Espn
 http://stream.tvtap.live:8081/live/espnuk.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDE6NDY6MzcgUE0maGFzaF92YWx1ZT1lMno0b25pK2lxMHZkY050ZDYyeFFRPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 group-title="Sport Mdy",DAZN 1
-http://stream.tvtap.live:8081/live/it-dazn1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDE6NDc6NTcgUE0maGFzaF92YWx1ZT13YzQzNWViaDFZTjU1S09yMXloTU13PT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 group-title="Sport Mdy",Dazn 2
-http://stream.tvtap.live:8081/live/it-dazn2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDE6NDk6MDQgUE0maGFzaF92YWx1ZT1TWnlNSlNTeWw3cGNmQU1XaEcreW9nPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 group-title="Sport Mdy",Dazn 3
-http://stream.tvtap.live:8081/live/it-dazn3.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDE6NDk6MzQgUE0maGFzaF92YWx1ZT1EUXJycmpEWm1GMjlXVVFBalVDV0VnPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 group-title="Sport Mdy",Dazn 4
-http://stream.tvtap.live:8081/live/it-dazn4.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDE6NTA6MTggUE0maGFzaF92YWx1ZT1QQVhiS09aNHNwL21zSTJzVXYyQTJnPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 group-title="Sport Mdy",Dazn 5
-http://stream.tvtap.live:8081/live/it-dazn5.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDE6NTA6NDggUE0maGFzaF92YWx1ZT1wVWEyVlVWbjZDWUUzMVBzQWFadUpRPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 group-title="Sport Mdy",Dazn 6
-http://stream.tvtap.live:8081/live/it-dazn6.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDE6NTE6MTcgUE0maGFzaF92YWx1ZT1hTlFXcDRzMG5MSEhObVdmeEVScE93PT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 group-title="Sport Mdy",Dazn 10
-http://stream.tvtap.live:8081/live/it-dazn10.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDE6NTI6MTAgUE0maGFzaF92YWx1ZT1oMDcwV0xMbmtkemJkZ2wrTXJ0azRnPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 group-title="Sport Mdy",Dazn 9
-http://stream.tvtap.live:8081/live/it-dazn9.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDE6NTI6MzIgUE0maGFzaF92YWx1ZT03cmUzV2h4R0RKZVBoOE1EU3dCd2p3PT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 group-title="Sport Mdy",TNT 
+http://alphabetagama.ddns.net/sports2021/tntsports/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My81LzIwMjEgOTo1Mjo1NyBBTSZoYXNoX3ZhbHVlPWRURDRFMFJZMEozMWE5ekRmZk50eVE9PSZ2YWxpZG1pbnV0ZXM9MTI=
+#EXTINF:-1 group-title="Sport Mdy",Arena 1
+http://alphabetagama.ddns.net/sports2021/arenasp1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My81LzIwMjEgOTo1NDoyMiBBTSZoYXNoX3ZhbHVlPVNvVkZjcDF6VU55eDBGM2E2c0p0SWc9PSZ2YWxpZG1pbnV0ZXM9MTI=
+#EXTINF:-1 group-title="Sport Mdy",Arena 2
+http://alphabetagama.ddns.net/sports2021/arenasp2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My81LzIwMjEgOTo1NTo0MyBBTSZoYXNoX3ZhbHVlPUtseVYxMlpvZms1U1V3dzFSSCs0dlE9PSZ2YWxpZG1pbnV0ZXM9MTI=
+#EXTINF:-1 group-title="Sport Mdy",Arena 3
+http://alphabetagama.ddns.net/sports2021/arenasp3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My81LzIwMjEgOTo1NjowMSBBTSZoYXNoX3ZhbHVlPVFMOUlOSUVjTUZtQmtYN0RmaGt4blE9PSZ2YWxpZG1pbnV0ZXM9MTI=
+#EXTINF:-1 group-title="Sport Mdy",Arena 4
+http://alphabetagama.ddns.net/sports2021/arenasp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My81LzIwMjEgOTo1NjoxNyBBTSZoYXNoX3ZhbHVlPXgrVEoySmwxK2dsRjl1eS90d2lWNEE9PSZ2YWxpZG1pbnV0ZXM9MTI=
+#EXTINF:-1 group-title="Sport Mdy",Arena 5
+http://alphabetagama.ddns.net/sports2021/arenasp5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My81LzIwMjEgOTo1NjozMSBBTSZoYXNoX3ZhbHVlPXpzejBteDdUNmZmZmU1L1FtcXFtSmc9PSZ2YWxpZG1pbnV0ZXM9MTI=
 #EXTINF:-1 group-title="Sport Mdy",Sky Premiere
 http://stream.tvtap.live:8081/live/skysports-premier-league.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDE6NTM6MTIgUE0maGFzaF92YWx1ZT1KWDlZMk52QTdMU1AyTTEyUEY1UUJRPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 group-title="Sport Mdy",Sky 2 DE
@@ -60,3 +66,10 @@ http://stream.tvtap.live:8081/live/pt-sporttv5.stream/playlist.m3u8?wmsAuthSign=
 http://stream.tvtap.live:8081/live/nl-ziggoselect.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDE6NTk6MTMgUE0maGFzaF92YWx1ZT13Q3lZWWltbTA5TFlHQTMvL3ZjL3JRPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 group-title="Entertaimrnt",BBC earth
 http://alphabetagama.ddns.net/uk2020/bbcearthen/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My81LzIwMjEgOTo0NjozNyBBTSZoYXNoX3ZhbHVlPUNGeHNKVkh6aVRIeDk0Vkt1WWhmZHc9PSZ2YWxpZG1pbnV0ZXM9MTI=
+#EXTINF:-1 group-title="Entertaimrnt",Syfy
+http://alphabetagama.ddns.net/uk2020/syfyuk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My81LzIwMjEgOTo1Nzo0MCBBTSZoYXNoX3ZhbHVlPVIxVi9CUnkwYXAxelBDcW1vSTZQTVE9PSZ2YWxpZG1pbnV0ZXM9MTI=
+#EXTINF:-1 group-title="Entertaimrnt",HGTV
+http://alphabetagama.ddns.net/usa2020/hgtvus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My81LzIwMjEgMTA6MDQ6MTMgQU0maGFzaF92YWx1ZT1PaVFseElwZnpraXJvVXFNZDdSd1VnPT0mdmFsaWRtaW51dGVzPTEy
+#EXTINF:-1 group-title="Entertaimrnt",Nat geo People
+http://alphabetagama.ddns.net/de2019/natgeopeoplede/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My81LzIwMjEgMTA6MDU6MjIgQU0maGFzaF92YWx1ZT1jSzdUN293V2djUkJLM0ZoaFNCME1BPT0mdmFsaWRtaW51dGVzPTI=
+
