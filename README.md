@@ -1,9 +1,9 @@
 
 
-#EXTINF:-1 tvg-name="IND: BBC EARTH HD"
+#EXTINF:-1 "IND: BBC EARTH HD"
 http://alphabetagama.ddns.net/sports2021/premiresp2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My81LzIwMjEgNzoyNDowMiBBTSZoYXNoX3ZhbHVlPXFNcmVjc3BZNjFjbXlaNTVtWjlBNVE9PSZ2YWxpZG1pbnV0ZXM9MTI=
-#EXTINF:-1 group-title="Sport Mdy",beinsport 1 fr
-http://stream.tvtap.live:8081/live/fr-beinsport1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDE6MzQ6NTAgUE0maGFzaF92YWx1ZT1oNkttdTRMWWNaNUFkcVhsUy9LK1FBPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 group-title="Sport Mdy",sky premiere
+http://alphabetagama.ddns.net/sports2021/skypleague/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My81LzIwMjEgNzoyOTozNSBBTSZoYXNoX3ZhbHVlPTFlTDF5RFdDNG55dVdZQ0lyZzBiaWc9PSZ2YWxpZG1pbnV0ZXM9MTI=
 #EXTINF:-1 group-title="Sport Mdy",beinsport 2 fr
 http://stream.tvtap.live:8081/live/fr-beinsport2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDE6MzY6MjYgUE0maGFzaF92YWx1ZT1CbkdkR0hQLzJFdXhCRnhNZzRlSTRnPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 group-title="Sport Mdy",beinsport 3 fr
