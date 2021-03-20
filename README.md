@@ -30,7 +30,22 @@ http://stream.tvtap.live:8081/live/klub4.stream/playlist.m3u8?wmsAuthSign=c2Vydm
 http://stream.tvtap.live:8081/live/klub5.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDg6NDI6MjUgQU0maGFzaF92YWx1ZT0xN3RKaHVFMmx3YkxFMnhacjR6R0RRPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 group-title="Sport Mdy", SPORT CLUB 6
 http://stream.tvtap.live:8081/live/klub6.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDg6NDI6NTkgQU0maGFzaF92YWx1ZT1rRWNNcU1uRDR5K2thQkw1Nnd0eFFnPT0mdmFsaWRtaW51dGVzPTIw
-
+#EXTINF:-1 group-title="Sport Mdy", NBCSN
+http://stream.tvtap.live:8081/live/nbcsn.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDg6NDc6NDQgQU0maGFzaF92YWx1ZT1mTnM5YU93ZmtwZUJNcDhTdFhKbHhBPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 group-title="Sport Mdy", BT SPORT ESPN
+http://stream.tvtap.live:8081/live/espnuk.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDg6NDk6MTYgQU0maGFzaF92YWx1ZT1SV3RyeFNVd1ZFTVFMaDFXdUFCR0FnPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 group-title="Sport Mdy", BT APORT 3
+http://stream.tvtap.live:8081/live/bt33.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDg6NTA6MjggQU0maGFzaF92YWx1ZT1QbWtLbHRpclJkMHBEVmRyNjkvaFVnPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 group-title="Sport Mdy", BT SPORT 2
+http://stream.tvtap.live:8081/live/bt220.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDg6NTE6MTEgQU0maGFzaF92YWx1ZT1MdFU4QThrOTd3U1FydVlWRk4rL2h3PT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 group-title="Sport Mdy", BT SPORT 1
+http://stream.tvtap.live:8081/live/bt1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDg6NTE6MzggQU0maGFzaF92YWx1ZT1VNml1TENaNlBEWklDbS94QVVKRW5BPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 group-title="Sport Mdy", ESPN
+http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDg6NTI6MDUgQU0maGFzaF92YWx1ZT02dkk5bitvVHJveEQ4eHFjNE5qYWdnPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 group-title="Sport Mdy", ESPN 2
+http://stream.tvtap.live:8081/live/espn2hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDg6NTI6MzMgQU0maGFzaF92YWx1ZT00bTRkNE1WdFl2MmVZTmFnK1VzMUZRPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 group-title="Sport Mdy", CANAL+ SPORT
+http://stream.tvtap.live:8081/live/fr-canaplus-sport.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDg6NTM6MDggQU0maGFzaF92YWx1ZT04MzV2QjNQVlpaOHZxK2N3NVU5Vnp3PT0mdmFsaWRtaW51dGVzPTIw
 
 
 
