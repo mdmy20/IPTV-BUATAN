@@ -1,5 +1,5 @@
 #EXTINF:-1 group-title="Sport Mdy",Premiere Sport 1
-http://alphabetagama.ddns.net/sports2021/premiresp2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My81LzIwMjEgOTo1OToyMyBBTSZoYXNoX3ZhbHVlPSs3bzM3d2FYbVUxWE44dE9OSkhMYkE9PSZ2YWxpZG1pbnV0ZXM9MTI=
+Http://alphabetagama.ddns.net/sports2021/premiresp2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My81LzIwMjEgOTo1OToyMyBBTSZoYXNoX3ZhbHVlPSs3bzM3d2FYbVUxWE44dE9OSkhMYkE9PSZ2YWxpZG1pbnV0ZXM9MTI=
 #EXTINF:-1 group-title="Sport Mdy",Premiere Sport 2
 http://alphabetagama.ddns.net/sports2021/premiresp2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My81LzIwMjEgOTo1ODozNiBBTSZoYXNoX3ZhbHVlPWdEVWIvUnJkS21ia0NEZEluT3AwQXc9PSZ2YWxpZG1pbnV0ZXM9MTI=
 #EXTINF:-1 group-title="Sport Mdy",sky premiere league
@@ -7,7 +7,7 @@ http://alphabetagama.ddns.net/sports2021/skypleague/playlist.m3u8?wmsAuthSign=c2
 #EXTINF:-1 group-title="Sport Mdy",sky main event
 http://alphabetagama.ddns.net/sports2021/skymainevent/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My81LzIwMjEgMTA6MDA6MDMgQU0maGFzaF92YWx1ZT15U0FwVSt3bXp0OGNKOVM5dnJGdVl3PT0mdmFsaWRtaW51dGVzPTEy
 #EXTINF:-1 group-title="Sport Mdy",sky football
-http://alphabetagama.ddns.net/sports2021/skyfootball/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My81LzIwMjEgMTA6MDA6NTQgQU0maGFzaF92YWx1ZT1wd1JLWDJhR242VnVFN041ck5NUC9RPT0mdmFsaWRtaW51dGVzPTEy
+http://livezer0.hjkm.info:11991/mercurysd/beinsports12sd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDc6NTM6NDMgQU0maGFzaF92YWx1ZT1FVzJiQktiRTZ3MEFGdkNhQTREeDZRPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1 group-title="Sport Mdy",beinsport 11
 http://alphabetagama.ddns.net/sports2021/bein11/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My81LzIwMjEgOTo1MDowNSBBTSZoYXNoX3ZhbHVlPVk0Z0p2RU9tYytWRlZVU0tia251ckE9PSZ2YWxpZG1pbnV0ZXM9MTI=
 #EXTINF:-1 group-title="Sport Mdy",beinsport 10
