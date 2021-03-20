@@ -44,6 +44,22 @@ http://stream.tvtap.live:8081/live/bt1.stream/playlist.m3u8?wmsAuthSign=c2VydmVy
 http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDg6NTI6MDUgQU0maGFzaF92YWx1ZT02dkk5bitvVHJveEQ4eHFjNE5qYWdnPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 group-title="Sport Mdy", ESPN 2
 http://stream.tvtap.live:8081/live/espn2hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDg6NTI6MzMgQU0maGFzaF92YWx1ZT00bTRkNE1WdFl2MmVZTmFnK1VzMUZRPT0mdmFsaWRtaW51dGVzPTIw
+EXTINF:-1 group-title="Sport Mdy",Beinsport Max 4
+http://stream.tvtap.live:8081/live/fr-beinmax4.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDEwOjE1OjQwIEFNJmhhc2hfdmFsdWU9dXo0dlVTTWM1RTZGRFA3dWdRVVJMUT09JnZhbGlkbWludXRlcz0yMA==
+EXTINF:-1 group-title="Sport Mdy",Beinsport Max 5
+http://stream.tvtap.live:8081/live/fr-beinmax5.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDEwOjE2OjQ4IEFNJmhhc2hfdmFsdWU9Qy95Y3AxbUpLQjQrenFZOWdXdkdpdz09JnZhbGlkbWludXRlcz0yMA==
+EXTINF:-1 group-title="Sport Mdy",Beinsport Max 6
+http://stream.tvtap.live:8081/live/fr-beinmax6.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDEwOjE3OjMyIEFNJmhhc2hfdmFsdWU9VUhnR3hxb3k4Q042TjVCVWgvazdsZz09JnZhbGlkbWludXRlcz0yMA==
+EXTINF:-1 group-title="Sport Mdy",Beinsport Max 7
+http://stream.tvtap.live:8081/live/fr-beinmax7.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDEwOjE3OjU2IEFNJmhhc2hfdmFsdWU9bnhNOFNwanhqUnU4UXdxNDNHeS96dz09JnZhbGlkbWludXRlcz0yMA==
+EXTINF:-1 group-title="Sport Mdy",DAZN 11
+http://stream.tvtap.live:8081/live/it-dazn11.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDEwOjE4OjQ2IEFNJmhhc2hfdmFsdWU9K21jdWxwdFNVZWVBRUl5aWx4TU10dz09JnZhbGlkbWludXRlcz0yMA==
+EXTINF:-1 group-title="Sport Mdy",DAZN 10
+http://stream.tvtap.live:8081/live/it-dazn10.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDEwOjE5OjI2IEFNJmhhc2hfdmFsdWU9MlhyaEptWnNwTHBubGx2TXh1NHZCZz09JnZhbGlkbWludXRlcz0yMA==
+EXTINF:-1 group-title="Sport Mdy",Eleven Sport
+http://stream.tvtap.live:8081/live/uk-elevensports.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDEwOjIwOjE0IEFNJmhhc2hfdmFsdWU9ZTRMRkwxYmd6VmVsNUVjRlI1QUMxdz09JnZhbGlkbWludXRlcz0yMA==
+EXTINF:-1 group-title="Sport Mdy",Eleven Sport 2
+http://stream.tvtap.live:8081/live/uk-elevensports2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDEwOjIwOjM5IEFNJmhhc2hfdmFsdWU9U2lrSkhuSW1KL2xUZytUMTdMZDAyQT09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1 group-title="Sport Mdy", CANAL+ SPORT
 http://stream.tvtap.live:8081/live/fr-canaplus-sport.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDg6NTM6MDggQU0maGFzaF92YWx1ZT04MzV2QjNQVlpaOHZxK2N3NVU5Vnp3PT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 group-title="Sport Mdy", PTV Sport
