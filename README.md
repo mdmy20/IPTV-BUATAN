@@ -46,6 +46,20 @@ http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8?wmsAuthSign=c2
 http://stream.tvtap.live:8081/live/espn2hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDg6NTI6MzMgQU0maGFzaF92YWx1ZT00bTRkNE1WdFl2MmVZTmFnK1VzMUZRPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 group-title="Sport Mdy", CANAL+ SPORT
 http://stream.tvtap.live:8081/live/fr-canaplus-sport.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDg6NTM6MDggQU0maGFzaF92YWx1ZT04MzV2QjNQVlpaOHZxK2N3NVU5Vnp3PT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 group-title="Sport Mdy", PTV Sport
+http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDk6MDc6MDQgQU0maGFzaF92YWx1ZT1tanA3aUlaOHNqcDBCellnRWpua3VRPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 group-title="ENT", BBC ENTERTAIMENT
+http://stream.tvtap.live:8081/live/bbcent.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDk6MDA6MzQgQU0maGFzaF92YWx1ZT1ZQnhxT1FSNXNhTDVpMDZNM1JRMm5nPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 group-title="ENT", DESTINATION AMERICA
+http://stream.tvtap.live:8081/live/us-destination.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDk6MDE6NDYgQU0maGFzaF92YWx1ZT1TMVBvdkg4Y0JIenc5ckdidHlIUWJBPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 group-title="ENT", Animal Planet UK
+http://stream.tvtap.live:8081/live/ap.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDk6MDI6NTggQU0maGFzaF92YWx1ZT12cW1mZ2tCWFBqaEhMQ3Y5akhxRGJRPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 group-title="ENT", Animal Planet US
+http://stream.tvtap.live:8081/live/ap9.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDk6MDM6NDggQU0maGFzaF92YWx1ZT1wWGtUTUNJNHVSb09lekwwaStzVDlBPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 group-title="ENT", AXN
+http://stream.tvtap.live:8081/live/es-axn.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDk6MDQ6NDMgQU0maGFzaF92YWx1ZT04ZkMrZWs1Skl0TWs5VFRyRE5XZENRPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 group-title="ENT", BBC AMERICA
+http://stream.tvtap.live:8081/live/us-bbc-america.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDk6MDU6MTggQU0maGFzaF92YWx1ZT1jdWJVSUNZeWJlQ1FmM1RqMXFBVUlRPT0mdmFsaWRtaW51dGVzPTIw
 
 
 
